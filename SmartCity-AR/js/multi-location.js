@@ -13,14 +13,14 @@ function staticLoadPlaces() {
         {
             name: 'articuno',
             location: {
-                lat: 47.50595,
-                lng: 19.08331,
+                lat: 47.50603,
+                lng: 19.08302,
             },
         },
 		{
             name: 'dragonite',
             location: {
-                lat: 47.50621,
+                lat: 47.50603,
                 lng: 19.0829,
             },
         },
